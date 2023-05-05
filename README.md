@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Programadora Front End
-Diseñadora Visual
+### Programadora Front End
+### Diseñadora Visual
 
 
 <img src="https://www.compartirpalabramaestra.org/sites/default/files/styles/articulos/public/field/image/formacion-docente-basada-en-competencias.jpg?itok=m9mTe_10"/>
