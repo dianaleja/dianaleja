@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-### Programadora Front End
-### Diseñadora Visual
+![banerlinGITHUB](https://user-images.githubusercontent.com/126523119/236473996-24e031ea-53a3-4fea-aafa-c806c6e831d5.jpg)
 
-
-<img src="https://www.compartirpalabramaestra.org/sites/default/files/styles/articulos/public/field/image/formacion-docente-basada-en-competencias.jpg?itok=m9mTe_10"/>
 
 <!--const diana = {
   pronouns: "she" | "her",
