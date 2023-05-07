@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![banerlinGITHUB](https://user-images.githubusercontent.com/126523119/236473996-24e031ea-53a3-4fea-aafa-c806c6e831d5.jpg)
+![banerlinknegro](https://user-images.githubusercontent.com/126523119/236705725-90b5a22c-f101-4d25-ba05-0f307ee38001.jpg)
+
 
 
 <!--const diana = {
