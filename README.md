@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966](https://github.com/dianaleja/dianaleja/assets/126523119/8c2c928a-6a91-4ae2-963d-8ba4509b5bf3)
+
 
 ![banerlinknegro](https://user-images.githubusercontent.com/126523119/236705725-90b5a22c-f101-4d25-ba05-0f307ee38001.jpg)
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966](https://github.com/dianaleja/dianaleja/assets/126523119/36a7587f-d73a-4244-b97e-f71256733a2a) 
 
 
 <!--const diana = {
